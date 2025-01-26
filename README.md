@@ -10,7 +10,7 @@
   </ul>
 </div>
 
- **<h3 align="left">🚀 Backend developer, creating robust and scalable applications. With a keen eye for performance optimization.</h3>**
+ **<h3 align="left">Python developer, learning computer science. ⭐</h3>**
 
  **<h3 align="left">Skills</h3>**
 
