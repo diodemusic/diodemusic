@@ -10,7 +10,7 @@
   </ul>
 </div>
 
- **<h3 align="left">Python developer, learning computer science. ⭐</h3>**
+ **<h3 align="left">Python developer, Computer Science student at UoL. ⭐</h3>**
 
  **<h3 align="left">Skills</h3>**
 
