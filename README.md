@@ -4,12 +4,6 @@
 
 ---
 
-### 🚀 Featured Projects
-- 🎮 [League Match Result Discord Bot](https://github.com/diodemusic/...) – Fetches Riot API match history, stores results in a database, and displays OOP-structured summaries in Discord.
-- 🌱 [Flower Pi](https://github.com/diodemusic/Flower-Pi) – Raspberry Pi project with a database + API to monitor plant soil moisture and automate watering.
-
----
-
 ### 🛠️ Languages and Tools
 <p align="center"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
