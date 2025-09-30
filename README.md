@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kieran</h1>
+<h1 align="center">Hi 👋 I'm Kieran</h1>
 <h3 align="center">Aspiring Software Engineer from England</h3>
 <p align="center">Currently studying Computer Science at the University of London</p>
 
