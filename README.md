@@ -6,4 +6,4 @@ Backend developer. Python, PostgreSQL, FastAPI, React. Second-year CS student at
 
 **[pyke-lol](https://github.com/diodemusic/pyke)** — Async Riot Games API wrapper published on [PyPI](https://pypi.org/project/pyke-lol/). `pip install pyke-lol`
 
-**[flower-pi](https://github.com/diodemusic/flower-pi)** — Raspberry Pi plant monitoring system with live web dashboard.
+**[uptide.dev](https://uptide.dev)** — Availability and uptime monitoring SaaS.
