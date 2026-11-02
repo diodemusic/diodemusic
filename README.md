@@ -1,9 +1,9 @@
 # Kieran
 
-Backend developer. Python, PostgreSQL, FastAPI, React. Second-year CS student at the University of London.
+Full time software engineer at Raytheon UK focusing on Python backend development.
 
 ## What I've built
 
-**[uptide.dev](https://uptide.dev)** - Availability and uptime monitoring SaaS.
+**[uptide.dev](https://uptide.dev)** - Availability and uptime monitoring SaaS (no longer hosted but repo is public).
 
 **[pyke-lol](https://github.com/diodemusic/pyke)** - Async Riot Games API wrapper published on [PyPI](https://pypi.org/project/pyke-lol/). `pip install pyke-lol`
